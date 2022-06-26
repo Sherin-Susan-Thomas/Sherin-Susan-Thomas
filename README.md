@@ -1,4 +1,4 @@
-Hi, myself Sherin. A passionate and a driven individual trying to make it in the information technology industry. 
+Hi, Sherin here, frontend developer with a zest to learn more. Technigo Alumni and developer at Charge Amps Sweden.
 
 
 <!---

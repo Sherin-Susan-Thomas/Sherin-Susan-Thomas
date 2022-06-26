@@ -1,4 +1,5 @@
-Hi, Sherin here, frontend developer with a zest to learn more. Technigo Alumni and developer at Charge Amps Sweden.
+Hi, Sherin here 👋, frontend developer with a zest to learn more. Technigo Alumni and developer at Charge Amps Sweden.
+
 
 
 <!---
